@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tutalae, I'm a counseling psysholigist.
+- 👋 Hi, I’m @tutalae, I'm a counseling psychologist.
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Maths, Stats, Python, SQL, Java, Pandas, Numpy, Matplotlib, Pytorch
 - 📫 How to reach me : (https://www.homemade-counseling.com/)

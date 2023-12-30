@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @tutalae, I'm a counseling psychologist.
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Maths, Stats, Python, SQL, Java, Pandas, Numpy, Matplotlib, Pytorch
-- 📫 How to reach me : (https://www.homemade-counseling.com/)
+# 👋 Hi, I'm @tutalae
 
-<!---
-tutalae/tutalae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I'm a counseling psychologist with a passion for Data Science. 🧠💻
 
-- 💞️ I’m looking to collaborate on ...
---->
+- 👀 I’m currently delving into the exciting realms of:
+  - Python
+  - SQL
+  - C
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Pytorch
+
+
+- 📫 Reach me at:
+  - [homemade-counseling.com](https://www.homemade-counseling.com/)
+  - [LinkedIn](https://www.linkedin.com/in/kopkritsaikhiao/)
+

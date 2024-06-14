@@ -1,17 +1,24 @@
-# 👋 Hi, I'm @tutalae
+# Welcome to My GitHub Profile! 👋
 
+## About Me
 I'm a counseling psychologist with a passion for Data Science. 🧠💻
 
-- 👀 I’m currently delving into the exciting realms of:
-Languages:
-     Python
-     SQL
-     C
-Frameworks:
-     Django 
+## Skills and Interests
+- **Languages:**
+  - Python
+  - SQL
+  - C
 
+- **Frameworks:**
+  - Django
 
-- 📫 Reach me at:
-  - [homemade-counseling.com]([https://www.homemade-counseling.com/](https://homemade-counseling.webflow.io/))
-  - [LinkedIn](https://www.linkedin.com/in/kopkritsaikhiao/)
+## Current Projects
+I'm currently delving into the exciting realms of:
+- Data Science using Python, SQL, and C
+- Web development with Django
 
+## Let's Connect
+- 🌐 [Homemade Counseling](http://homemade-counseling.com)
+- 💼 [LinkedIn](https://www.linkedin.com)
+
+Feel free to reach out if you share similar interests or have any questions!

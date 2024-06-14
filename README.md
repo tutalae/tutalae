@@ -4,11 +4,11 @@ I'm a counseling psychologist with a passion for Data Science. 🧠💻
 
 - 👀 I’m currently delving into the exciting realms of:
 Languages:
-     -Python
-     -SQL
-     -C
+-Python
+-SQL
+-C
 Frameworks:
-     -Django 
+-Django 
 
 
 - 📫 Reach me at:

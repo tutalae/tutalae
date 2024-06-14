@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm a counseling psychologist with a passion for Data Science. 🧠💻
+I'm a counseling psychologist with a passion for Data Science and programming. 🧠💻
 
 ## Skills and Interests
 - **Languages:**

@@ -3,16 +3,15 @@
 I'm a counseling psychologist with a passion for Data Science. 🧠💻
 
 - 👀 I’m currently delving into the exciting realms of:
-  - Python
-  - SQL
-  - C
-  - Pandas
-  - Numpy
-  - Matplotlib
-  - Pytorch
+Languages:
+     -Python
+     -SQL
+     -C
+Frameworks:
+     -Django 
 
 
 - 📫 Reach me at:
-  - [homemade-counseling.com](https://www.homemade-counseling.com/)
+  - [homemade-counseling.com]([https://www.homemade-counseling.com/](https://homemade-counseling.webflow.io/))
   - [LinkedIn](https://www.linkedin.com/in/kopkritsaikhiao/)
 

@@ -24,3 +24,4 @@ Counseling psychologist who codes — I build data science projects, trading and
 
 ## Let's connect
 - 🌐 [Homemade Counseling](http://homemade-counseling.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kopkritsaikhiao/)

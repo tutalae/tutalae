@@ -10,7 +10,6 @@ Counseling psychologist who codes — I build data science projects, trading and
 
 ## 📈 Trading & risk
 - [ralph-vince-money-risk](https://github.com/tutalae/ralph-vince-money-risk) — money management and risk techniques from Ralph Vince, in Python
-- [crypto market analysis](https://github.com/tutalae/practice-for-analysing-and-predict-the-price-of-crypto-currency) — BTC, Hurst exponent, CCXT, portfolio notebooks
 
 ## 🤖 Machine learning & MLOps
 - [creditcard_approval_prediction](https://github.com/tutalae/creditcard_approval_prediction) — MLflow tracking and a Streamlit demo

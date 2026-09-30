@@ -6,7 +6,7 @@ Counseling psychologist who codes — I build data science projects, trading and
 
 ## 🔮 Astrology & Chinese metaphysics
 - [**Astrology**](https://github.com/tutalae/Astrology) — Uranian (Hamburg School) astrology engine with BaZi, I Ching and Kua
-- [bazi-elements](https://github.com/tutalae/bazi-elements) — BaZi charts and elements, translated from Chinese to English
+- [bazi-elements](https://github.com/tutalae/bazi-elements) — BaZi chart library and CLI: five elements, Ten Gods, luck pillars, true solar time (English/Thai)
 
 ## 📈 Trading & risk
 - [ralph-vince-money-risk](https://github.com/tutalae/ralph-vince-money-risk) — money management and risk techniques from Ralph Vince, in Python

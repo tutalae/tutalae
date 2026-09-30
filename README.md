@@ -18,7 +18,7 @@ Counseling psychologist who codes — I build data science projects, trading and
 
 ## 📱 Apps & tools
 - [flutter-cafe-stock-tracker](https://github.com/tutalae/flutter-cafe-stock-tracker) — coffee bean inventory app in Flutter
-- [questionnaire_by_tkinter](https://github.com/tutalae/questionnaire_by_tkinter) — psychology survey desktop app
+- [mindfulness-questionnaire](https://github.com/tutalae/mindfulness-questionnaire) — psychology survey desktop app
 - [werewolf](https://github.com/tutalae/werewolf) — text-based Werewolf party game
 
 ## Let's connect

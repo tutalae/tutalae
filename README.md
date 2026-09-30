@@ -1,4 +1,4 @@
-# Hi, I'm Tae 👋
+# Hi there 👋
 
 Counseling psychologist who codes — I build data science projects, trading and risk tools, small apps, and a lot of astrology software.
 

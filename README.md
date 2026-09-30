@@ -1,24 +1,26 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Tae 👋
 
-## About Me
-I'm a counseling psychologist with a passion for Data Science and programming. 🧠💻
+Counseling psychologist who codes — I build data science projects, trading and risk tools, small apps, and a lot of astrology software.
 
-## Skills and Interests
-- **Languages:**
-  - Python
-  - SQL
-  - C
+**Stack:** Python · Jupyter · scikit-learn · TensorFlow · MLflow · Streamlit · LangChain · Flutter/Dart · Flet · Tkinter · C++ · Rust
 
-- **Frameworks:**
-  - Django
+## 🔮 Astrology & Chinese metaphysics
+- [**Astrology**](https://github.com/tutalae/Astrology) — Uranian (Hamburg School) astrology engine with BaZi, I Ching and Kua
+- [bazi-chart-element-check](https://github.com/tutalae/bazi-chart-element-check) — BaZi charts and elements, translated from Chinese to English
 
-## Current Projects
-I'm currently delving into the exciting realms of:
-- Data Science using Python, SQL, and C
-- Web development with Django
+## 📈 Trading & risk
+- [ralph-vince-money-risk](https://github.com/tutalae/ralph-vince-money-risk) — money management and risk techniques from Ralph Vince, in Python
+- [crypto market analysis](https://github.com/tutalae/practice-for-analysing-and-predict-the-price-of-crypto-currency) — BTC, Hurst exponent, CCXT, portfolio notebooks
 
-## Let's Connect
+## 🤖 Machine learning & MLOps
+- [creditcard_approval_prediction](https://github.com/tutalae/creditcard_approval_prediction) — MLflow tracking and a Streamlit demo
+- [Kaggle ICR](https://github.com/tutalae/Kaggle-ICR-Identifying-Age-Related-Conditions) · [Kaggle-projects](https://github.com/tutalae/Kaggle-projects)
+- [Solar Power Forecasting](https://github.com/tutalae/Solar-Power-Forecasting-CICD-AWS-sagemaker) — CI/CD on AWS SageMaker
+
+## 📱 Apps & tools
+- [flutter-cafe-stock-tracker](https://github.com/tutalae/flutter-cafe-stock-tracker) — coffee bean inventory app in Flutter
+- [questionnaire_by_tkinter](https://github.com/tutalae/questionnaire_by_tkinter) — psychology survey desktop app
+- [werewolf](https://github.com/tutalae/werewolf) — text-based Werewolf party game
+
+## Let's connect
 - 🌐 [Homemade Counseling](http://homemade-counseling.com)
-- 💼 [LinkedIn](https://www.linkedin.com)
-
-Feel free to reach out if you share similar interests or have any questions!
